@@ -1,1 +1,2 @@
 # florida
+pkg install update
